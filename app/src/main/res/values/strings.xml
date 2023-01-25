@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GameSuit</string>
+    <string name="kertas">Kertas</string>
+    <string name="batu">Batu</string>
+    <string name="gunting">Gunting</string>
+
+</resources>
