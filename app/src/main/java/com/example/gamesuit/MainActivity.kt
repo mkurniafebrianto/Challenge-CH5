@@ -100,6 +100,6 @@ class MainActivity : AppCompatActivity() {
             tvResult.text = "Komputer\nMENANG!"
         }
 
-        return player.uppercase()
+        return player
     }
 }
